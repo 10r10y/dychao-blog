@@ -8,7 +8,7 @@ subtitle: '十日十月的博客'
 description: 'dyChao-blog'
 keywords:
 author: dyChao
-language: ch
+language: zh_CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
