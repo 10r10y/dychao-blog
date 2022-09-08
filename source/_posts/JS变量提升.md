@@ -1,6 +1,6 @@
 ---
 title: JS变量提升
-date: 2022-09-08 01:34:18
+date: 2022-04-12 01:34:18
 categories: 
 - JavaScript
 ---
@@ -99,11 +99,6 @@ s = function(){ // 变量赋值
 s(); // 0
 ```
 
-## 每日一题
-
-```
-https://github.com/WindrunnerMax/EveryDay
-```
 
 ## 参考
 

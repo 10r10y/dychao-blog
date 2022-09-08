@@ -5,7 +5,7 @@
 menu:
   首页: / || fas fa-home
   文章: /archives/ || fas fa-archive
-  # 标签: /tags/ || fas fa-tags
+  标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   # 清单||fas fa-list:
   #   Music: /music/ || fas fa-music
@@ -87,7 +87,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /image/80.jpg
+index_img: /image/81.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /image/104.jpg
@@ -521,7 +521,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: https://img-blog.csdnimg.cn/db4fd5b4c8514ff2ba0d458c0b3877e3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ1JVROWwj-iDveaJiw==,size_9,color_FFFFFF,t_70,g_se,x_16#pic_center
+background: 
 
 # Footer Background
 footer_bg: true
@@ -581,7 +581,7 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: true
+  enable: false
   text:
     - I
     - LOVE
@@ -686,7 +686,7 @@ aside:
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
-    color: false
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true

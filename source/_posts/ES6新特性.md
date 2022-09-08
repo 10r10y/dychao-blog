@@ -1,6 +1,6 @@
 ---
 title: ES6新特性
-date: 2022-09-08 01:34:04
+date: 2022-04-02 01:34:04
 categories: 
 - JavaScript
 ---
@@ -167,8 +167,3 @@ function(v){
 });
 ```
 
-## 每日一题
-
-```
-https://github.com/WindrunnerMax/EveryDay
-```
