@@ -1,23 +1,73 @@
-- class_name: 友情链接
-  class_desc: 那些人，那些事
+- class_name: 构建部署
+  class_desc: 开箱即用的部署平台和一些静态站点构建工具
   link_list:
+    - name: Vercel
+      link: https://vercel.com/
+      avatar: https://assets.vercel.com/image/upload/front/favicon/vercel/144x144.png
+      descr: 快速部署你的网站，目前很流行
+    - name: Netlify
+      link: https://www.netlify.com/
+      avatar: https://www.netlify.com/v3/static/favicon/favicon-32x32.png
+      descr: 30秒部署你的网站
     - name: Hexo
-      link: https://hexo.io/zh-tw/
+      link: https://hexo.io/zh-cn/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网誌框架
+      descr: 最流行的静态博客程序 Markdown编写 生成静态站点
+    - name: VuePress
+      link: https://www.vuepress.cn/
+      avatar: https://www.logolynx.com/images/logolynx/s_b2/b26cce304681d1e0bb4ff021a29de261.png
+      descr: Vue 驱动的静态网站生成器
 
-- class_name: 网站
-  class_desc: 值得推荐的网站
+- class_name: 算法
+  class_desc: 算法练习的一些选择
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中国最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+    - name: AcWing
+      link: https://www.acwing.com/
+      avatar: https://cdn.acwing.com/media/activity/surface/log.png
+      descr: 梦开始的地方
+    - name: Codeforces
+      link: https://codeforces.com/
+      avatar: https://codeforces.org/s/17767/images/codeforces-sponsored-by-ton.png
+      descr: 俄罗斯算法平台
+    - name: TLeetCode
+      link: https://leetcode.cn/problemset/all/
+      avatar: https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/images/lccn-logo-ce3d56eeedaae618e59e2ec5089e4834.svg
+      descr: 广为人知的算法平台
+    - name: BFE
+      link: https://bigfrontend.dev/zh
+      avatar: https://bigfrontend.dev/static/img/logo@192x192.png
+      descr: 前端工程师需要掌握的各种代码
+
+- class_name: 素材
+  class_desc: 总会用到的一些素材
+  link_list:
+    - name: Logos
+      link: https://www.logolynx.com/
+      avatar: https://www.logolynx.com/favicon.ico
+      descr: 汇集多种 Logo
+    - name: WebGradients
+      link: https://webgradients.com/
+      avatar: https://webgradients.com/img/other/logos/webgradients_logo.png
+      descr: 配色网站
+      
+
+- class_name: 轮子
+  class_desc: 一些常用的提效轮子
+  link_list:
+    - name: Tailwind
+      link: https://tailwindcss.com/
+      avatar: https://www.tailwindcss.cn/favicon-32x32.png
+      descr: 原子化 CSS 框架
+    - name: Bootstrap v5
+      link: https://v5.bootcss.com/
+      avatar: https://v5.bootcss.com/docs/5.1/assets/img/favicons/favicon.ico
+      descr: 流行的前端开源工具包
+    - name: Element Plus
+      link: https://element-plus.gitee.io/zh-CN/
+      avatar: https://element-plus.gitee.io/images/element-plus-logo.svg
+      descr: 基于 Vue 3，面向设计师和开发者的组件库
+    - name: Element Plus
+      link: Echarts
+      avatar: https://echarts.apache.org/zh/images/logo.png?_v_=20200710_1
+      descr: 一个基于 JavaScript 的开源可视化图表库
+    
