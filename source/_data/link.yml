@@ -66,8 +66,8 @@
       link: https://element-plus.gitee.io/zh-CN/
       avatar: https://element-plus.gitee.io/images/element-plus-logo.svg
       descr: 基于 Vue 3，面向设计师和开发者的组件库
-    - name: Element Plus
-      link: Echarts
+    - name: Echarts
+      link: https://echarts.apache.org/zh/index.html
       avatar: https://echarts.apache.org/zh/images/logo.png?_v_=20200710_1
       descr: 一个基于 JavaScript 的开源可视化图表库
     
