@@ -2,10 +2,9 @@
 title: LLM 学习小记
 date: 2025-03-21 19:12:09
 categories:
-  - CSS
+  - AI
 tags:
-  - CSS
-  - 前端开发
+  - AI
 ---
 
 ## 大模型API的理解
