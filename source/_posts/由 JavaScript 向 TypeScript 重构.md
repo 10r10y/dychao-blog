@@ -1,6 +1,6 @@
 ---
 title: 由 JavaScript 向 TypeScript 重构
-date: 2024-01-08 20:42:09
+date: 2024-08-08 20:42:09
 tags:
 - 优化
 categories: 
